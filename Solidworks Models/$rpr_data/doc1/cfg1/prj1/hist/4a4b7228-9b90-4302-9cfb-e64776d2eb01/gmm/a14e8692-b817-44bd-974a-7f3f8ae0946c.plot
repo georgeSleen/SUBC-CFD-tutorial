@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feature>
+	<version>1</version>
+	<uuid/>
+	<name>Global Min/Max: Velocity (X)</name>
+	<type>13</type>
+	<res_file_key>a14e8692-b817-44bd-974a-7f3f8ae0946c</res_file_key>
+	<cs_name/>
+	<cs_uuid/>
+	<x_form>
+		<global>true</global>
+		<origin>
+			<item>0</item>
+			<item>0</item>
+			<item>0</item>
+		</origin>
+		<translate>
+			<item>1</item>
+			<item>0</item>
+			<item>0</item>
+			<item>0</item>
+			<item>1</item>
+			<item>0</item>
+			<item>0</item>
+			<item>0</item>
+			<item>1</item>
+		</translate>
+	</x_form>
+	<display_bl>false</display_bl>
+	<interpolate>true</interpolate>
+	<use_cad_geom>false</use_cad_geom>
+	<moving_reference>true</moving_reference>
+	<moving_display>true</moving_display>
+	<full_task>false</full_task>
+	<use_in_BRP>false</use_in_BRP>
+	<parameter>
+		<uuid>12E844D2-B70E-441c-AB35-32B7B56810BD</uuid>
+		<name>Velocity (X)</name>
+		<unit>19</unit>
+		<formula/>
+		<formula2/>
+		<formula3/>
+		<locality>0</locality>
+	</parameter>
+</feature>

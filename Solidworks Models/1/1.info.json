@@ -1,0 +1,78 @@
+{
+    "version": 0,
+    "model_name": "prop+hull.SLDASM",
+    "project_name": "CFD Tutorial",
+    "config_name": "Default",
+    "project_path": "C:\\Users\\gslee\\OneDrive - UBC\\Desktop\\UBC\\SUBC\\2024-2025\\CFD Training\\Solidworks Models\\1\\1.xmlconfig",
+    "finished": true,
+    "mesh": {
+        "cells_total": 33358,
+        "cells_fluid": 33358,
+        "cells_solid": 369,
+        "cells_fluid_containing_solid": 332
+    },
+    "telemetry": {
+        "prepare_geometry_finished": "00:23:56-0700",
+        "prepare_geometry_total_time": 1,
+        "cpu_time_solver_total": 30,
+        "iteration": 116,
+        "travel": 1.8017505374921097,
+        "phys_time": 0.0,
+        "time_step": 0.0,
+        "last_iteration_finished": "00:24:23-0700",
+        "cpu_time_per_last_iter": 0,
+        "cpu_time_left": 0,
+        "iterations_per_travel": 65
+    },
+    "goals": [
+        {
+            "goal": {
+                "name": "GG Force (X) 1",
+                "unit": "force",
+                "value": -0.958103561693253,
+                "progress": 100.0,
+                "criteria": 0.5572616407565824,
+                "delta": 0.508312768875895,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "GG Torque (X) 2",
+                "unit": "momentum",
+                "value": 0.3064643441935798,
+                "progress": 100.0,
+                "criteria": 0.019904521559108126,
+                "delta": 0.016642139679824808,
+                "use_in_convergence": true
+            }
+        }
+    ],
+    "settings": {
+        "default_fluids": [
+            "Water"
+        ],
+        "analysis_type": "external",
+        "heat_conduction_in_solids": false,
+        "radiation": false,
+        "time_dependent": false,
+        "gravity": false,
+        "flow_type": "laminar and turbulent",
+        "cavitation": false,
+        "high_mach_number": true,
+        "free_surface": false,
+        "structural": false,
+        "electromagnetism": false
+    },
+    "system_info": {
+        "product_name": "Flow Simulation 2023  x64 / 5965 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2",
+        "cad_version": "SOLIDWORKS 2023 SP2.1",
+        "computer_name": "GS_ZEPHYRUS",
+        "user_name": "gslee",
+        "os": "Windows 11 (or higher) (Version 10.0.22631)",
+        "cpu": "AMD Ryzen 7 4800HS with Radeon Graphics         ",
+        "number_of_cores": 16,
+        "memory_avail": 3347,
+        "memory_total": 15789
+    }
+}

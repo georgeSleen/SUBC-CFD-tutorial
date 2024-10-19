@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<version>1</version>
+	<name>CFD Tutorial</name>
+	<uuid>3f75fa32-9835-466a-9995-2ece9b0203f9</uuid>
+	<directory>prj1</directory>
+	<vwr_res_files_dir>1</vwr_res_files_dir>
+	<geom_db_uuid>71d222cf-a99c-4349-9384-cb88116205ef</geom_db_uuid>
+	<gdb_light_uuid>402c1eed-0484-4533-8bd4-d6caaf74e2a8</gdb_light_uuid>
+	<model_geom_uuid>2feabb80-79cd-45d1-9dbd-5f21aeaa2880</model_geom_uuid>
+	<template_id/>
+</project>
